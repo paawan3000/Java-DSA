@@ -24,6 +24,6 @@ public class Permutation {
          String newStr = str.substring(0, i) + str.substring(i+1);
          permutationAndComb(newStr,ans+curr);
         }
-
+ 
     }
 }
