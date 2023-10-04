@@ -14,7 +14,7 @@ public class Subsets {
         subString(str, ans, i+1);
     }
         public static void main(String[] args) {
-            subString("aaaabbaa","",0);
+            subString("gfg","",0);
         }
     
 }
